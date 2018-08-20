@@ -9,7 +9,7 @@ name: Personal blog of Victor Bjorn
 description: Personal blog of Victor Bjorn
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://victorbjorn.github.io/victor.jpg
+avatar: https://victorbjorn.github.io/images/victor.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: victorbjorn/victorbjorn.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/victorbjorn/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
